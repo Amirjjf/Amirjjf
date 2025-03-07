@@ -34,6 +34,10 @@
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-02569B?style=flat&logo=api&logoColor=white)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
 
+#### **Mobile Development**  
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+
 #### **Testing & CI/CD**  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)  
 ![React Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)  
@@ -49,6 +53,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)  
-
-
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
