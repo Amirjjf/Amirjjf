@@ -6,7 +6,7 @@
 
 🔍 **Interests:** Software Engineering | AI & ML | Web Development | Teaching & Research  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amirjjf/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amirreza-jafarian-2k/)  
 - 📜 [My GitHub Repositories](https://github.com/Amirjjf?tab=repositories)  
 
 ---
