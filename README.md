@@ -1,7 +1,7 @@
 ### Hi there👋
 
 🎓 **Final-Year Software and Systems Engineering Student** at LUT University  
-🏆 **Top 4% Student** | GPA: **4.88/5**  
+🏆 **Top 4% Student** | **First-Category Scholarship Receiver**  
 💻 **Full-Stack Developer** | **AI & Machine Learning Enthusiast**  
 
 🔍 **Interests:** Software Engineering | AI & ML | Web Development | Teaching & Research  
